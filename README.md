@@ -7,7 +7,7 @@ these artwork are the work of artists _Camille Dupreelle_ and _Vianney Van Henni
 
 ## How-to
 
-`master ` is for `.fbx` files only.
+`master` is for final art only.
 other branches should be used primarily as the master branch will be used as a sub-module of main project.
 
 ## Licence
